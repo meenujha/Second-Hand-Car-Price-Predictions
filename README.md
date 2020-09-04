@@ -4,8 +4,18 @@ There is a huge demand of used cars in the Indian Market today. As sale of new c
 
 The goal here is to predict the Price of an Old car based on the variables provided in the data set.
 
+## The following are a few interesting visualisations:
 
-![](master/boxplots%20of%20Makers.JPG)
+### Makers of the cars priced from high to low:
+
+![boxplots of Makers](https://user-images.githubusercontent.com/60847819/92273130-75010780-ef08-11ea-918f-081e25a4cb6b.JPG)
+
+### Cars with auto transmission were sold the most:
+![image](https://user-images.githubusercontent.com/60847819/92273479-0f614b00-ef09-11ea-9d4b-5152564d898e.png)
+
+Go through the repository to get a complete hint of how i predicted the Second hand car prices and drew interesting insights from it!
+
+
 
 
 
