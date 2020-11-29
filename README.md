@@ -7,7 +7,7 @@
 
 
 
--Linear Regresssion and Random forest Regressor model for the price prediction
+-Linear Regression and Random forest Regressor model for the price prediction
 
 ********************************************************************************************************************************************************************************
 
